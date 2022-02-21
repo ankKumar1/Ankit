@@ -1,0 +1,30 @@
+This is version 1 of my project.
+I want this to go into commit too.
+
+   ...Git setup ...
+
+git
+pwd  // current directory
+ls  //list content
+cd /c  //to go into any directory
+git config --g user.name "UserName"
+git config --g user.email "email-id"
+git config --list   //info
+git config --global core.editor vim // for git editor confiuration
+
+
+   ...Git commands...
+
+git status
+git init  // to initiaize git repository
+git log
+git add --a // for all
+gid add "filemane"
+git commit -m "update message"
+
+**  rm -rf .git    /// remove from git repository
+
+cloning..
+git clone link newname
+
+
